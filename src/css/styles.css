@@ -158,6 +158,10 @@ ul {
 }
 
 /* loader */
+.loader {
+  margin: 0 auto;
+}
+
 .loader.is-hidden {
   display: none;
 }
